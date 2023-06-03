@@ -1,0 +1,22 @@
+{
+  "name": "re4",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "re4": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sai Pin Pin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "conf": "^11.0.1",
+    "inquirer": "^9.2.6",
+    "yargs": "^17.7.2"
+  }
+}
